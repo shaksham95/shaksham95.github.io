@@ -27,5 +27,9 @@ When I'm not working, I have several hobbies.
   - When I started my journey in data science, I didn't have the luxury of having a mentor who can guide me and I know it's a tough experience when you are starting or planning to start your career in data science.
   
   - Hence, I started mentoring people like me who need someone to help them out and get their careers started in data science. So far, I have mentored dozens of national and international students/professionals in helping them kickstart their careers in data science.
-  
-  - 
+
+
+
+
+
+
