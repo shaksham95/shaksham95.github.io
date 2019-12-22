@@ -1,5 +1,5 @@
 ---
-title: "The Maths behind a ML Algorithm"
+title: "The Maths behind an ML Algorithm"
 collection: talks
 type: "Talk"
 permalink: /talks/ml_maths

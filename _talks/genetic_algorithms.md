@@ -15,4 +15,4 @@ In this talk, I talked about one type of evolutionary algorithms called Genetic 
 - Code walkthrough
 
 > - **Maximize the output of a given equation**
-> - **Find the fastest route between two points **
+> - **Find the fastest route between two points**
