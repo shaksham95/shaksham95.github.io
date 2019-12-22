@@ -6,10 +6,6 @@ redirect_from:
   - 
 ---
 
-
-
-
-
 When I'm not working, I have several hobbies.
 
 - I enjoy gaming:-
