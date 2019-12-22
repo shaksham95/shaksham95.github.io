@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Shaksham Kapoor"
-  avatar           : "logo.jpg"
+  avatar           : "/images/logo.jpg"
   bio              : "Data Science & NLP"
   location         : "Pune, India"
   employer         : "Persistent Systems Limited"
