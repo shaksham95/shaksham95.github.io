@@ -8,7 +8,7 @@ date: 2019-09-10
 location: "Pune IND"
 ---
 
-In this talk, I talked about one type of evolutionary algorithms called Genetic algorithms and covered the following:-
+In this talk, I talked about one type of evolutionary algorithms called Genetic algorithms and covered the following
 
 - The what/why of genetic algorithms?
 - Walkthrough of the GA in detail
