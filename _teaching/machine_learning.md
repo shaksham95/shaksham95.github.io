@@ -7,8 +7,6 @@ permalink: /teaching/machine_learning
 date: 2017-12-01
 ```
 
-
-
 - I like knowing things from inside out and to understand every aspect of an ML algorithm, I looked for resources that might help me and I found the following two resources very helpful.
   
   - [Lazy Programmer](https://www.udemy.com/course/data-science-linear-regression-in-python/) - Any course offered by this guy has good coverage of maths and is fun and enriching.
